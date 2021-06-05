@@ -6,6 +6,6 @@ const Todo = ({ todo }) => {
         </div>
     )
 }
-
+// returns the item as a h2
 export default Todo
 
