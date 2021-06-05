@@ -25,7 +25,7 @@ function App() {
     const newTodo = {id, ...todo}
     setTodos([...todos, newTodo])
   }
-
+// child components
   return (
     <div className="container">
       <Header title="Todo List" />
