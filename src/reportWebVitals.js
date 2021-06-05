@@ -9,5 +9,5 @@ const reportWebVitals = onPerfEntry => {
     });
   }
 };
-
+// Create React App includes a built-in tool for measuring the real life performance of your app. 
 export default reportWebVitals;
